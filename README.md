@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-At present, I am actively engaged in the development of my nascent venture, Uboxis.com, while simultaneously honing my skills in the field of full-stack development.
+At present, I am actively engaged in the development of my nascent venture, Udoxis.com, while simultaneously honing my skills in the field of full-stack development.
 
 
 # 💻 Tech Stack:
