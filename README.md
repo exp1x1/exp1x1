@@ -4,7 +4,7 @@ I am exp1x1 AKA Vrutik Rangholiya, the silent but impactful Web Developer, ready
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vrutik-rangholiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrutik-rangholiya-004963285)
 
 # 💻 Tech Stack:
 
